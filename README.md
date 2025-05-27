@@ -1,4 +1,4 @@
-## Gemma Whatsapp Bot
+# Gemma Whatsapp Bot
 
 Aplikasi untuk berbicara dengan model Gemma3. Aplikasi menggunakan Backend Google AI Studio.
 
